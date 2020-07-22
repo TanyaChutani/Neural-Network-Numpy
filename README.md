@@ -1,2 +1,2 @@
 # Neural-Network-Numpy
-Neural Network (3 layers) from scratch using Numpy.
+Neural Network (Multiple layers) from scratch using Numpy.
